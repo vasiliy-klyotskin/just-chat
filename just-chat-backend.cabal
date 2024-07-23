@@ -124,4 +124,5 @@ test-suite just-chat-backend-test
     -- Test dependencies.
     build-depends:
         base ^>=4.17.2.1,
+        HUnit,
         just-chat-backend
